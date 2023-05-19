@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ContagemApp</string>
+    <string name="any_text">-</string>
+    <string name="time_one">Time 1-</string>
+    <string name="time_two">Time 2-</string>
+    <string name="times">Preencha os campos abaixo com o(s) nome(s) de cada time.</string>
+    <string name="placar">Placares</string>
+    <string name="tentos">Tentos</string>
+    <string name="historicodapartida">Histórico da partida</string>
+    <string name="timeTwo">Time 2</string>
+    <string name="placarTwo">Placar:</string>
+    <string name="timeTwoTxt">Time:</string>
+    <string name="placarOne">Placar:</string>
+    <string name="timeOne">Time 1</string>
+    <string name="timeOneTxt">Time:</string>
+    <string name="comecar">Começar</string>
+    <string name="conta_tento">Conta tento</string>
+
+</resources>

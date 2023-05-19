@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/davij/.gradle/caches/transforms-2/files-2.1/151f0d9d8ae638aa885aaf70e5793380/jetified-appcompat-resources-1.3.0-alpha02/res/drawable/abc_vector_test.xml" value="0.26944444444444443" />
+        <entry key="..\:/Users/davij/Desktop/ContagemApp/ContagemApp/app/src/main/res/drawable/corner_card_view_bottom.xml" value="0.3472222222222222" />
+        <entry key="..\:/Users/davij/Desktop/ContagemApp/ContagemApp/app/src/main/res/drawable/corner_placar_sup.xml" value="0.3472222222222222" />
+        <entry key="..\:/Users/davij/Desktop/ContagemApp/ContagemApp/app/src/main/res/layout/activity_login.xml" value="0.31521739130434784" />
+        <entry key="..\:/Users/davij/Desktop/ContagemApp/ContagemApp/app/src/main/res/layout/contagem_two_lyout.xml" value="0.22" />
+        <entry key="..\:/Users/davij/Desktop/ProjetoDavi/Projetos/ContagemApp/app/src/main/res/drawable/button_succes_background.xml" value="0.209375" />
+        <entry key="..\:/Users/davij/Desktop/ProjetoDavi/Projetos/ContagemApp/app/src/main/res/drawable/corner_card_view_bottom.xml" value="0.2" />
+        <entry key="..\:/Users/davij/Desktop/ProjetoDavi/Projetos/ContagemApp/app/src/main/res/drawable/corner_placar_sup.xml" value="0.34270833333333334" />
+        <entry key="..\:/Users/davij/Desktop/ProjetoDavi/Projetos/ContagemApp/app/src/main/res/drawable/corner_white.xml" value="0.209375" />
+        <entry key="..\:/Users/davij/Desktop/ProjetoDavi/Projetos/ContagemApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/davij/Desktop/ProjetoDavi/Projetos/ContagemApp/app/src/main/res/layout/contagem_two_lyout.xml" value="0.25" />
+        <entry key="..\:/Users/davij/Desktop/ProjetoDavi/Projetos/ContagemApp/app/src/main/res/layout/dialog_custom_view_resumo_pontos.xml" value="0.25" />
+        <entry key="..\:/Users/davij/Desktop/ProjetoDavi/Projetos/ContagemApp/app/src/main/res/layout/dialog_defult_yes_or_no.xml" value="0.25" />
+        <entry key="..\:/Users/davij/Desktop/ProjetoDavi/Projetos/ContagemApp/app/src/main/res/layout/item_recycler_adapter_contagem.xml" value="0.19322916666666667" />
+        <entry key="..\:/Users/davij/Desktop/ProjetoDavi/Projetos/ContagemApp/app/src/main/res/layout/toolbar_default.xml" value="0.19739583333333333" />
+        <entry key="..\:/Users/davij/Desktop/ProjetoDavi/Projetos/ContagemApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2866666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
